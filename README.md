@@ -30,8 +30,8 @@ cd /filedirectory
 cd /home/*user*
 clear
 
-and then after that the shell menu will run upon terminal startup.
-
+Then after that the shell menu will run upon terminal startup.
+--------------------------------------------------------------------------------
 You will have to do this for all the files. Another way to do it is through the GUI. To do it this way simply right click on the file, click properties, click on 
 the permissions tab and click allow executing file as program and that's it you're done you can now use the scripts to your liking and edit the source as you
 please! 
