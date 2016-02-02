@@ -1,5 +1,5 @@
 # Basic-Shell-Menu
-Masen'sBasicShellScripts - version 1.0 - A.K.A - MBSS
+Masen'sBasicShellMenu - version 1.0 - A.K.A - MBSM
 --------------------------------------------------------------------------------
 This Package was created by: Masen Luecke.
 The contents were created by: Masen Luecke.
