@@ -25,7 +25,7 @@ clear
   echo "Enter q to exit the menu q: "
   echo -e "\n"
   echo "-----------------------------------------------------------------"
-  echo -e "Enter your selection: \c"
+  echo -e "Enter a selection: \c"
   read input
   case "$input" in
     1) who
@@ -45,6 +45,6 @@ clear
     q) exit ;;
     *) echo "$input is an invalid option."
   esac
-  echo -e "Enter return to continue \c"
+  echo -e "Press enter to continue \c"
   read input
 done
